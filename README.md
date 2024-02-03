@@ -5,10 +5,7 @@
   <div id="socials">
     <a href="https://www.linkedin.com/in/dailywithhuncseh-gabor0312">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=LinkedIn">
-    </a>
-    <a href="https://www.facebook.com/gabor.cseh.147/">
-      <img src="https://img.shields.io/badge/Facebook-%230866FF?style=social&logo=Facebook">
-    </a>
+    </a>
   </div>
   <div id="views">
     <img src="https://komarev.com/ghpvc/?username=csehg0312&style=flat-square&color=green" alt="">
