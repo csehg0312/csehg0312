@@ -5,10 +5,10 @@
 <h3>Social Blade</h3>
 <div id="socials">
   <a href="www.linkedin.com/in/dailywithhuncseh-gabor0312">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=LinkedIn&link=www.linkedin.com%2Fin%2Fdailywithhuncseh-gabor0312">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=LinkedIn">
   </a>
   <a href="https://www.facebook.com/gabor.cseh.147/">
-    <img src="https://img.shields.io/badge/Facebook-%230866FF?style=social&logo=Facebook&link=https%3A%2F%2Fwww.facebook.com%2Fgabor.cseh.147%2F">
+    <img src="https://img.shields.io/badge/Facebook-%230866FF?style=social&logo=Facebook">
   </a>
 </div>
 <!-- <a href="www.linkedin.com/in/dailywithhuncseh-gabor0312">LinkedIn</a> -->
