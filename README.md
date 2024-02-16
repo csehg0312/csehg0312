@@ -11,6 +11,8 @@
   <div id="views">
     <img src="https://komarev.com/ghpvc/?username=csehg0312&style=flat-square&color=green" alt="">
   </div>
+  <div id="stats">
+  </div>
 </div>
 <br>
 <br>
